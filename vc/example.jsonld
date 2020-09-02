@@ -2,6 +2,7 @@
   "@context": {
     "@version": 1.1,
     "@base": "http://my.example.base.iri.com",
+    "@vocab": "http://my.test.vocab.com/",
     "id": "@id",
     "type": "@type",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
